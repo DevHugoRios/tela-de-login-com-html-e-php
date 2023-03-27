@@ -1,0 +1,21 @@
+body{background-color: cyan;}
+
+.formulario{
+    background-color: pink;
+    color: rgba(0, 0, 0, 0.39);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1em;
+    margin-top: 20em;
+    margin-left: 50em;
+    margin-right: 50em;
+    box-shadow: 10px -10px rgb(179, 127, 136);
+    border-radius: 1em;
+}
+input{border-radius: 6px;
+background-color: rgba(255, 255, 255, 0.596);}
+h1{text-align: center;}
